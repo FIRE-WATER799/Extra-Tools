@@ -1,0 +1,83 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ExtraTools",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "extra_tools"
+    },
+    {
+      "name": "EnderRubySword",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_ruby_sword"
+    },
+    {
+      "name": "GoldenBronzeSword",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_bronze_sword"
+    },
+    {
+      "name": "EnderDust",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_dust"
+    },
+    {
+      "name": "Enderhard",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderhard"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabextra_tools": "Extra Tools",
+      "item.extra_tools.ender_dust": "Ender Dust",
+      "item.extra_tools.ender_ruby_sword": "Ender Ruby Sword",
+      "item.extra_tools.enderhard": "Ender Shard",
+      "item.extra_tools.golden_bronze_sword": "Golden Bronze Sword"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "extra_tools",
+    "modName": "Extra Tools",
+    "version": "1.0.0",
+    "author": "haywo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.extratools",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
